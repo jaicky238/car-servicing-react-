@@ -1,0 +1,12 @@
+.card-body{
+    width: 400px;
+    background: rgba(152, 155, 167, 0.8);
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    right: 0;
+    top: 100;
+}
+.card{
+    top: 70px;
+}
